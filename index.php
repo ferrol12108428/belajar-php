@@ -11,7 +11,7 @@
 		<input type="text" name="usia"><br/>
 		<label>No tlpn</label><br/>
 		<input type="text" name="tlpn"><br/>	
-		<input type="submit" value="oke">
+		<input type="submit" value="daftar">
 	</form>
 	
 	  </body>

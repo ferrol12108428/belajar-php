@@ -14,5 +14,5 @@ echo "Usia anda adalah " . $usia;
 echo "<br/>";
 // menampilkan data tlpn
 echo "No tlpn anda adalah " . $tlpn;
-echo "<br>";
+echo "<br/>";
 ?>
